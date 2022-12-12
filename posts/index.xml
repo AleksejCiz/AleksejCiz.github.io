@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MyLab4</title>
+    
+    
+    
+    <link>https://AleksejCiz.github.io/posts/</link>
+    <description>Recent content in Posts on MyLab4</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Dec 2022 20:47:28 +0200</lastBuildDate>
+    
+	<atom:link href="https://AleksejCiz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MyLab4_SecondPage</title>
+      <link>https://AleksejCiz.github.io/posts/mylab4/</link>
+      <pubDate>Mon, 12 Dec 2022 20:47:28 +0200</pubDate>
+      
+      <guid>https://AleksejCiz.github.io/posts/mylab4/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Puslapio failus su md išplėtimu galite kurti ir iš kitos programos, bet hugo new komanda iškart įrašys meta duomenys į puslapį (puslapio pavadinimą, datą, ir statusą). Atidarykite sukurtą failą. Pakeiskite pavadinimą (title) ir statusą (draft: false). Po meta duomenų parašykite pora sakinių. Išsaugokite failą.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
